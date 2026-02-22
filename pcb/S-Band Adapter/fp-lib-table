@@ -5,4 +5,5 @@
   (lib (name "ERF8-030-05.0-L-DV-TR")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/ERF8-030-05.0-L-DV-TR")(options "")(descr ""))
   (lib (name "532611071")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/532611071")(options "")(descr ""))
   (lib (name "PC104-FlatSat")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/PC_104/PC104-FlatSat.pretty")(options "")(descr ""))
+  (lib (name "430152050826")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/430152050826")(options "")(descr ""))
 )
