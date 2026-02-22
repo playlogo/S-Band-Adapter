@@ -1,6 +1,7 @@
 # S-Band Adapter
 
 [![PCB](docs/pcb.png)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fplaylogo%2FS-Band-Adapter%2Ftree%2Fmaster%2Fpcb%2FS-Band%2520Adapter)
+*(image might be outdated, check interactive viewer)*
 
 **Notes:**
 
@@ -22,3 +23,5 @@
 ## Schematic
 
 ![Scheamtic](docs/schematic.png)
+
+![Obsidian canvas](docs/obsidan_canvas.png)
