@@ -60,22 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|225052000|86452000|97f0dce1-6ac0-4fda-99b2-8422d44b2854|981ac50f-b83d-449a-9d96-442b682ea45d",
-          ""
-        ],
-        [
-          "hole_clearance|225052000|86982000|0664aa82-0f89-472e-9fe9-a33e25cc345a|981ac50f-b83d-449a-9d96-442b682ea45d",
-          ""
-        ],
-        [
-          "hole_clearance|226332000|86452000|fdc64a54-2caa-43ca-b8f0-8cc158e2706e|981ac50f-b83d-449a-9d96-442b682ea45d",
-          ""
-        ],
-        [
-          "hole_clearance|226332000|86982000|f22d1f68-bb69-44e1-8394-d7b839732cdf|981ac50f-b83d-449a-9d96-442b682ea45d",
-          ""
-        ],
-        [
           "silk_edge_clearance|155080000|106040000|d6416129-d160-4f5e-a28a-4d594384d2f6|7da50c3e-5ea0-4488-a968-70486e4edb08",
           ""
         ],
