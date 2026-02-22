@@ -1,0 +1,9 @@
+Manufacturer=Cal Test
+PartNumber=CT3151SP-2
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2019-06-04 19:28:33
+Downloaded=2026-02-22 11:10:45
+3D=Y

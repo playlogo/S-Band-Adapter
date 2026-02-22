@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/LIB_CT3151SP-2/KiCad")(options "")(descr ""))
+  (lib (name "FTSH-107-01-L-DV-K-A")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/FTSH-107-01-L-DV-K-A")(options "")(descr ""))
+  (lib (name "ERF8-030-05.0-L-DV-TR")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/ERF8-030-05.0-L-DV-TR")(options "")(descr ""))
+  (lib (name "532611071")(type "KiCad")(uri "/home/playlogo/Making/S‑Band Adapter/components/532611071")(options "")(descr ""))
+)
